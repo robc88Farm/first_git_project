@@ -4,8 +4,8 @@ merged again
 
 shorten_title change
 
-
 change made for stash
 \
 change made in master
 another change
+change made for stash3
