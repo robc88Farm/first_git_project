@@ -1,11 +1,3 @@
 a first file that I added to my project.
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-this is a change to diff.
-=======
-another change
->>>>>>> Stashed changes
-=======
-another change
->>>>>>> Stashed changes
+merged again
