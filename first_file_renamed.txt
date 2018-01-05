@@ -3,3 +3,6 @@ a first file that I added to my project.
 merged again
 
 shorten_title change
+
+
+change made for stash
