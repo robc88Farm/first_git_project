@@ -1,11 +1,3 @@
 a first file that I added to my project.
 
-merged again
-
-shorten_title change
-
-change made for stash
-\
-change made in master
-another change
-change made for stash3
+change made for remote testing
