@@ -2,5 +2,5 @@ this is the second file that I added to my project.
 
 This line added in branch.
 
-shorten_title change
+shorten_title change number 2
 
